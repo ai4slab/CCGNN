@@ -4,7 +4,7 @@ CCGNN for miRNA-target interaction prediction.
 
 
 
-**Step 1**. Virtual environment creation:
+**Step 1**. virtual environment creation:
 
 ```
 conda env create -f environment.yml
